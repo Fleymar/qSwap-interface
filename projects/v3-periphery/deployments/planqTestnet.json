@@ -1,0 +1,10 @@
+{
+  "SwapRouter": "0x045895c9780fDD737E9B8e5a3abE90c4c2f65268",
+  "V3Migrator": "0x440f2e48bB13F6C0cC9147106e6bcaE09a573656",
+  "Quoter": "0x35fb8C179255f984a79042AC56c27d49851faa7e",
+  "TickLens": "0xdCAC02143e1c9b9C88CfC5283A5825e0f71FAb5F",
+  "NFTDescriptor": "0xa4805C3A66156890f7d5C7C1d59811Aae61a5E80",
+  "NonfungibleTokenPositionDescriptor": "0x5702ddC092B196246B4a65E502128fBb3a85AbEd",
+  "NonfungiblePositionManager": "0x5Ac64E88310B4A076e559eee9AaFD1f326F1f36D",
+  "UniswapInterfaceMulticall": "0x7992E85e218e933d4b99fa6470c2e324AFFC0837"
+}
